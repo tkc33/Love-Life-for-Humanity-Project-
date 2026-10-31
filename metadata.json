@@ -1,0 +1,6 @@
+{
+  "name": "The Love Life for Humanity Project",
+  "description": "Created by Tiffany K Casteel. Find local charities and community resources providing food, shelter, and financial assistance with direct contact info by ZIP code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
